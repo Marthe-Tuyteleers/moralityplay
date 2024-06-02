@@ -1,4 +1,4 @@
-# moralplay
+# moralityplay
 Video installatie: https://youtu.be/Q3qAT_oZ2Xk <img width="1512" alt="thumbnail" src="https://github.com/Marthe-Tuyteleers/moralityplay/assets/107477742/a7490a54-7b77-4d3b-9942-f757e2c73304">
 Hoe het project opstellen: 
 1. Steek de lader van de Raspberry Pie in stopcontact
